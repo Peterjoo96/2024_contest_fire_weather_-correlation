@@ -1,1 +1,10 @@
 <img width="1920" height="1080" alt="2024_fire_weather_correlation_1" src="https://github.com/user-attachments/assets/f1bc3624-3f1f-49f6-b725-adb0009b375c" />
+<img width="1920" height="1080" alt="2024_fire_weather_correlation_2" src="https://github.com/user-attachments/assets/42f67dfc-ad46-4b35-9702-53500f4a8a97" />
+<img width="1920" height="1080" alt="2024_fire_weather_correlation_3" src="https://github.com/user-attachments/assets/52156001-2cc9-4cb8-b54f-84617bf9e430" />
+<img width="1920" height="1080" alt="2024_fire_weather_correlation_4" src="https://github.com/user-attachments/assets/2c13e473-8592-4277-aeb8-44ee262732ca" />
+<img width="1920" height="1080" alt="2024_fire_weather_correlation_5" src="https://github.com/user-attachments/assets/4983b0f2-6c0a-4547-a3f5-0f025f5fe617" />
+<img width="1920" height="1080" alt="2024_fire_weather_correlation_6" src="https://github.com/user-attachments/assets/afd91ce8-60ef-486e-b94d-84b963401691" />
+<img width="1920" height="1080" alt="2024_fire_weather_correlation_7" src="https://github.com/user-attachments/assets/adca7a41-68c6-4c04-b9ec-19bfb2574bf0" />
+<img width="1920" height="1080" alt="2024_fire_weather_correlation_8" src="https://github.com/user-attachments/assets/e168ee7a-4868-4136-bf1a-1daae7296eea" />
+<img width="1920" height="1080" alt="2024_fire_weather_correlation_9" src="https://github.com/user-attachments/assets/efd667dd-ddff-4ae1-8053-ca2a6c45cbbb" />
+<img width="1920" height="1080" alt="2024_fire_weather_correlation_10" src="https://github.com/user-attachments/assets/0fdeb236-9288-4c56-9d51-278c840b01f5" />
